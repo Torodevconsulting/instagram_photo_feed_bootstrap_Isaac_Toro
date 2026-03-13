@@ -1,0 +1,27 @@
+.destacado {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 6px 10px;
+    border-radius: 5px;
+}   
+.parrafo {
+    color: blue;
+    font-size: 18px;
+}
+
+.oculto {
+    display: none;
+}   
+
+.error {
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.exito {
+    color: green;
+    font-size: 16px;
+    font-weight: bold;
+}
